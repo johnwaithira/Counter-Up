@@ -1,4 +1,3 @@
-## Please use [Counter-Up2](https://github.com/bfintal/Counter-Up2) instead.
 
 Counter-Up
 ==========
@@ -60,9 +59,3 @@ $('.counter').counterUp({
 
 `time` - The total duration of the count up animation
 
-Social Stuff
-============
-
-Twitter: [@bfintal](https://twitter.com/bfintal) & [@gambitph](https://twitter.com/gambitph)
-
-Google+: <a href='https://plus.google.com/113101541449927918834' rel='author'>+Benjamin Intal</a>
